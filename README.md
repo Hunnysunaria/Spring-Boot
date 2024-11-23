@@ -1,2 +1,2 @@
 # Spring-Boot
-Spring boot Project
+E-commerce product management project built using spring boot
